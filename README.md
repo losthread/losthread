@@ -1,6 +1,6 @@
 ### About Me:
 **Software Engineer | Cybersecurity Enthusiast | High School Student**
-*I like building stuff ;)*
+- *I like building stuff ;)*
 
 ### Socials:
 - **X (Twitter):** [@losthr3ad](https://x.com/losthr3ad)
