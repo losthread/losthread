@@ -1,6 +1,6 @@
 ### About Me:
 **Software Engineer | Cybersecurity Enthusiast | High School Student**
-> *I like building stuff ;)*
+*I like building stuff ;)*
 
 ### Socials:
 - **X (Twitter):** [@losthr3ad](https://x.com/losthr3ad)
@@ -10,5 +10,5 @@
 - **Languages:** C, C++, Java, Python, JavaScript, Go, Bash, HTML/CSS
 - **Web Tech:** ReactJS, TailwindCSS, ShadCN UI, FastAPI, Nginx, Postman
 - **Databases:** PostgreSQL, MySQL, MongoDB
-- **DevSecOps & Security:** Linux, Docker, Nmap, Burp Suite, Shell Scripting, OSINT, Web Security
-- **Cloud & Deployment:** Vercel, Railway
+- **Security:** Linux, Nmap, Burp Suite, Shell Scripting, OSINT, Web Security
+- **Cloud & Deployment:**  Docker, Vercel, Railway
