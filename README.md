@@ -13,4 +13,4 @@
 - **Security:** Linux, Nmap, Burp Suite, Shell Scripting, OSINT, Web Security
 - **Cloud & Deployment:**  Docker, Vercel, Railway
 
-* My mac rice 🫶🏼: https://github.com/losthread/dotfiles
+> My dotfiles (mac) 🫶🏼: https://github.com/losthread/dotfiles
