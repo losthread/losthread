@@ -1,5 +1,5 @@
 ### About Me:
-**Software Engineer | Cybersecurity Enthusiast | High School Student**
+**Software Engineer | Security Researcher | High School Student**
 - *I like building stuff ;)*
 
 ### Socials:
