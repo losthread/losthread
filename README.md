@@ -8,9 +8,9 @@
 
 ### Tech Stack:
 - **Languages:** C, C++, Java, Python, JavaScript, Go, Bash, HTML/CSS
-- **Web Tech:** ReactJS, TailwindCSS, ShadCN UI, FastAPI, Nginx, Postman
+- **Web Tech:** ReactJS, TailwindCSS, ShadCN UI, FastAPI
 - **Databases:** PostgreSQL, MySQL, MongoDB
 - **Security:** Linux, Nmap, Burp Suite, Shell Scripting, OSINT, Web Security
-- **Cloud & Deployment:**  Docker, Vercel, Railway
+- **Cloud, DevOps & Tools:**  Docker, Vercel, Railway, Nginx, Postman, Kafka
 
 > My dotfiles (mac) 🫶🏼: https://github.com/losthread/dotfiles
