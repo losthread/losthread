@@ -13,6 +13,6 @@
 - **Web Tech:** ReactJS, TailwindCSS, ShadCN UI, FastAPI
 - **Databases:** PostgreSQL, MySQL, MongoDB
 - **Security:** Linux, Nmap, Burp Suite, Shell Scripting, OSINT, Web Security
-- **Cloud, DevOps & Tools:**  Docker, Vercel, Railway, Nginx, Postman, Kafka
+- **Cloud, DevOps & Tools:**  Docker, Vercel, Railway, Nginx, Postman, Kafka, Redis
 
 > My dotfiles (mac) 🫶🏼: https://github.com/losthread/dotfiles
