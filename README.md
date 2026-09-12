@@ -2,11 +2,11 @@
 
 ### About Me:
 **Software Engineer | Security Researcher | High School Student**
-- *I like building stuff ;)*
 
 ### Socials:
 - **X (Twitter):** [@losthr3ad](https://x.com/losthr3ad)
 - **Email:** parthnaik.office@gmail.com
+- **WebRing** [@Parth][https://ring.seggs.lol/]
 
 ### Tech Stack:
 - **Languages:** C, C++, Java, Python, JavaScript, Go, Bash, HTML/CSS
@@ -16,3 +16,4 @@
 - **Cloud, DevOps & Tools:**  Docker, Vercel, Railway, Nginx, Postman, Kafka, Redis
 
 > My dotfiles (mac) 🫶🏼: https://github.com/losthread/dotfiles
+<img width="88" height="31" alt="image" src="https://github.com/user-attachments/assets/86fc434f-8b29-4628-b0a3-33cdf4d487c0" />
