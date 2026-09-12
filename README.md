@@ -6,7 +6,7 @@
 ### Socials:
 - **X (Twitter):** [@losthr3ad](https://x.com/losthr3ad)
 - **Email:** parthnaik.office@gmail.com
-- **WebRing** [@Parth][https://ring.seggs.lol/]
+- **Web Ring** [@Parth](https://ring.seggs.lol/)
 
 ### Tech Stack:
 - **Languages:** C, C++, Java, Python, JavaScript, Go, Bash, HTML/CSS
