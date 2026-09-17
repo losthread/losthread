@@ -11,7 +11,7 @@
 [![Threadlocked](https://github.com/user-attachments/assets/86fc434f-8b29-4628-b0a3-33cdf4d487c0)](https://threadlocked.xyz/)
 
 ### Tech Stack:
-- **Languages:** C, C++, Java, Python,TypeScript, Go, Bash, HTML/CSS
+- **Languages:** C, C++, Java, Python, Javascript, TypeScript, Go, Bash, HTML/CSS
 - **Web Tech:** ReactJS, NextJS, TailwindCSS, ShadCN UI, FastAPI, Postman
 - **Databases:** PostgreSQL, MySQL, MongoDB, Redis
 - **Security:** Linux, Nmap, Burp Suite, Shell Scripting, OSINT, Web Security
