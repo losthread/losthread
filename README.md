@@ -7,7 +7,7 @@
 - **X (Twitter):** [@losthr3ad](https://x.com/losthr3ad)
 - **Email:** parthnaik.office@gmail.com
 - **Threadlocked Webring** [@Parth](https://ring.seggs.lol/)
-- Member [@l4rps3c CTF](https://github.com/l4rps3c)]
+- Member [@l4rps3c CTF](https://github.com/l4rps3c)
 
 
 [![Threadlocked](https://github.com/user-attachments/assets/86fc434f-8b29-4628-b0a3-33cdf4d487c0)](https://threadlocked.xyz/)
