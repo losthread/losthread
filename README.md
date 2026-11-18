@@ -1,7 +1,7 @@
 ![Cute Illustration](https://c4.wallpaperflare.com/wallpaper/291/819/697/illustration-city-anime-painting-wallpaper-preview.jpg)
 
 ### About Me:
-**Software Engineer & Security Researcher **
+** Software Engineer & Security Researcher **
 
 ### Socials:
 - **X (Twitter):** [@losthr3ad](https://x.com/losthr3ad)
