@@ -16,7 +16,7 @@
 - **Languages:** C, C++, Java, Python, Javascript, TypeScript, Go, Bash, HTML/CSS
 - **Web Tech:** ReactJS, NextJS, TailwindCSS, ShadCN UI, FastAPI
 - **Databases:** PostgreSQL, MySQL, SQLite, MongoDB, Redis
-- **Security:** Linux, Nmap, Rizin/Ida, ffuf, Curl, Burp Suite, Bash Scripting, OSINT, Web Security
+- **Security:** Linux, Nmap, Ghidra, Ffuf, Curl, Burp Suite, Bash Scripting, OSINT, Web Security
 - **Cloud, DevOps & Tools:**  Docker, Vercel, Railway, Nginx, Kafka
 
 > My dotfiles (mac) 🫶🏼: https://github.com/losthread/dotfiles
