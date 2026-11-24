@@ -6,7 +6,6 @@
 ### Socials:
 - **X (Twitter):** [@losthr3ad](https://x.com/losthr3ad)
 - **Email:** parthnaik.office@gmail.com
-- **Threadlocked Webring** [@Parth](https://ring.seggs.lol/)
 - Member [@l4rps3c CTF](https://github.com/l4rps3c)
 
 
