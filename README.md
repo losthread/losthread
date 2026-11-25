@@ -9,6 +9,7 @@
 
 
 [![Threadlocked](https://github.com/user-attachments/assets/86fc434f-8b29-4628-b0a3-33cdf4d487c0)](https://threadlocked.xyz/)
+[![Threadlocked](https://github.com/user-attachments/assets/1e3dbbc3-d43c-465b-9475-5432392dac94)](https://larpring.com)
 
 ### Tech Stack:
 - **Languages:** C, C++, Java, Python, Javascript, TypeScript, Go, Bash, HTML/CSS
